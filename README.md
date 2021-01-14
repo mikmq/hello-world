@@ -1,5 +1,6 @@
 # hello-world
 just another repository
 
-hello people
+hello everyone
+
 Mickey here, you can call me Mik for short
